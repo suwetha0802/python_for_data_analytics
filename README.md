@@ -9,7 +9,8 @@ I am currently a beginner, and I use this repository to:
 - Track my learning progress  
 
 ## Topics Covered
-- Type conversion  
+- Type conversion
+- Conditional statements 
 - Basic Python programs  
 
 ## Tools Used
