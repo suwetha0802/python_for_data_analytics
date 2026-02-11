@@ -10,7 +10,9 @@ I am currently a beginner, and I use this repository to:
 
 ## Topics Covered
 - Type conversion
-- Conditional statements 
+- Conditional statements
+- for loop
+- while loop 
 - Basic Python programs  
 
 ## Tools Used
