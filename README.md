@@ -12,7 +12,9 @@ I am currently a beginner, and I use this repository to:
 - Type conversion
 - Conditional statements
 - for loop
-- while loop 
+- while loop
+- Jump statements
+- String
 - Basic Python programs  
 
 ## Tools Used
