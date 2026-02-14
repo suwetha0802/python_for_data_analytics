@@ -15,6 +15,7 @@ I am currently a beginner, and I use this repository to:
 - while loop
 - Jump statements
 - String
+- List
 - Basic Python programs  
 
 ## Tools Used
