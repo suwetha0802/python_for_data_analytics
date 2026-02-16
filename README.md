@@ -16,6 +16,7 @@ I am currently a beginner, and I use this repository to:
 - Jump statements
 - String
 - List
+- Tuple
 - Basic Python programs  
 
 ## Tools Used
