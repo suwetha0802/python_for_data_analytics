@@ -17,6 +17,7 @@ I am currently a beginner, and I use this repository to:
 - String
 - List
 - Tuple
+- Set
 - Basic Python programs  
 
 ## Tools Used
