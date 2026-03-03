@@ -18,6 +18,8 @@ I am currently a beginner, and I use this repository to:
 - List
 - Tuple
 - Set
+- Dictionary
+- Functions
 - Basic Python programs  
 
 ## Tools Used
