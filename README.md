@@ -20,6 +20,10 @@ I am currently a beginner, and I use this repository to:
 - Set
 - Dictionary
 - Functions
+- Object,Class and Method
+- Constructor
+- Inheritance
+- Polymorphism
 - Basic Python programs  
 
 ## Tools Used
