@@ -24,6 +24,7 @@ I am currently a beginner, and I use this repository to:
 - Constructor
 - Inheritance
 - Polymorphism
+- Abstraction
 - Basic Python programs  
 
 ## Tools Used
